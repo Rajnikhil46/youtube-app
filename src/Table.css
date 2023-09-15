@@ -1,0 +1,9 @@
+.parent{
+    display: flex ;
+    grid-template-columns: 30% 30% 30%;
+    background-color: rgb(213, 215, 100);
+}
+.items{
+    
+
+}
